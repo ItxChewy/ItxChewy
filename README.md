@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpxhere.com%2Fes%2Fphoto%2F755062&psig=AOvVaw0dTNNwznHoS6mXjUffOetH&ust=1719607527606000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCTiLfT_IYDFQAAAAAdAAAAABAE"  />
+  <img height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRyw5Goi80ZU52ayjMwoNRgO5bJLBqQgZog&s"  />
 </div>
 
 ###
