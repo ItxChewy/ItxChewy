@@ -1,11 +1,4 @@
 <h1 align="left">Bienvenid@s👋​</h1>
-
-###
-
-<div align="center">
-  <img height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRyw5Goi80ZU52ayjMwoNRgO5bJLBqQgZog&s"  />
-</div>
-
 ###
 
 <h2 align="left">Sobre mí 👇​👇​👇​</h2>
