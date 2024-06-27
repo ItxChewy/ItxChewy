@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="100" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif"  />
+</div>
+
+###
+
 <h2 align="left">Sobre mí 👇​👇​👇​</h2>
 
 ###
@@ -69,9 +75,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ItxChewy/ItxChewy/output/snake.svg" alt="Snake animation" />
 
 ###
